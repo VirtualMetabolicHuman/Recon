@@ -19,4 +19,10 @@ In contrast, Recon3Model.mat and Recon3Model.sbml refer to a stoichiometrically 
 
 
 Reference:
-Brunk et al, Nat Biotech, 2018: https://www.nature.com/articles/nbt.4072
+Brunk, E., Sahoo, S., Zielinski, D., Altunkaya, A., Draeger, A., Mih, N., Gatto, F., Nilsson, A.,
+Preciat, G., Aurich, M.K., Prlic, A., Sastry, A., Danielsdottir, A.D., Heinken, A., Noronha, A.,
+Rose, P.W., Burley, S.K., Fleming, R.M.T., Nielsen, J., Thiele, I., Palsson, B.O., "Recon3D
+enables a three-dimensional view of gene variation in human metabolism, Nature Biotechnology
+(2018).
+
+https://www.nature.com/articles/nbt.4072
