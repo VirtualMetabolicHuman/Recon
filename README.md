@@ -14,12 +14,9 @@ PLEASE NOTE THAT PULL-REQUESTS WILL BE AUTOMATICALLY CLOSED WITHOUT MERGING, as 
 
 IMPORTANT:
 
-Recon3D.mat and Recon3D.xml 
-  refer to the genome-scale human metabolic reconstruction as it can be queried in http://VMH.life.
+Recon3D.mat and Recon3D.xml: refer to the genome-scale human metabolic reconstruction as it can be queried in http://VMH.life.
 
-Recon3Model.mat and Recon3Model.xml 
-  refer to a stoichiometrically and flux-consistent subset of Recon3D, which has been constrained such that the ATP yield from various  
-  carbon sources under oxic and anoxic conditions is comparable to the theoretical values. Please refer to Brunk et al, Nat Biotech, 2018   for more details.
+Recon3Model.mat and Recon3Model.xml:refer to a stoichiometrically and flux-consistent subset of Recon3D, which has been constrained such that the ATP yield from various carbon sources under oxic and anoxic conditions is comparable to the theoretical values. Please refer to Brunk et al, Nat Biotech, 2018 for more details.
 
 
 Reference:
